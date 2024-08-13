@@ -2,7 +2,7 @@
 
 A transformer-based model for voice conversion, training with a few data (about 1min low noise speech), few training data, samll training epoch, better result.  
 
-> The online experience, See the site on [https://lamucal.com/ai-cover](https://lamucal.com/ai-cover) 
+> The online experience, [See the site here](https://lamucal.com/ai-cover) 
 
 
 <img src='./doc/image/net.png'  style="width: 950px;" >   
